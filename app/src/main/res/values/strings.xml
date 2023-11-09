@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login Dan Register Volley MySql</string>
+
+    <string-array name="gender_array">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string-array name="agama_array">
+        <item>Islam</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+        <item>Kristen</item>
+        <item>Katolik</item>
+    </string-array>
+</resources>
